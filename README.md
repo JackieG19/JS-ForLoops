@@ -28,7 +28,7 @@ Instructions:
 
 
 Iterate with JavaScript While Loops 
-Instructions
+Instructions:
 - You should be using a while loop for this.
 - Push the numbers 0 through 4 to myArray using a while loop.
 - myArray should equal [0,1,2,3,4]
